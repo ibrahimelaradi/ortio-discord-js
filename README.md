@@ -23,6 +23,13 @@ A quickstart template for discord bot projects using [ortio](https://github.com/
 
 Make sure to open `.gitignore` and add `.env` and `.env.test` after adding your tokens
 
+## Commands
+
+- `npm run dev`/`yarn dev`: Start development environment
+- `npm run dev:watch`/`yarn dev:watch`: Start transcompiler with --watch flag for update on change
+- `npm run dev:start`/`yarn dev:start`: Start nodemon on transcompiled files
+- `npm run test`/`yarn test`: Start testing
+
 ## License
 
 MIT © Ibrahim Elaradi
