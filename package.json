@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "author": "Darkystel",
   "license": "MIT",
+  "repository": "",
   "scripts": {
     "dev": "concurrently \"tsc -w\" \"nodemon build/index.js\"",
     "dev:watch": "tsc -w",
