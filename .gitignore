@@ -1,0 +1,5 @@
+node_modules
+build
+
+# **/*.env          # Ignore these files after cloning them
+# **/*.env.test     # Ignore these files after cloning them
